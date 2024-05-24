@@ -1,4 +1,4 @@
 flask
 google-generativeai
-youtube_transcript_api
+youtube_transcript_api==0.6.2
 Gunicorn
